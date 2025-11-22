@@ -3,7 +3,8 @@
 A lightweight and simple Discord multi-account manager that allows you to easily add, create, and switch between Discord accounts by opening them directly in your default web browser.
 
 Perfect for users who manage multiple Discord accounts (communities, alt accounts, testing, etc.) without needing to log in/out constantly.
-Created By Baconboy08
+Created By Baconboy08.
+
 ### Features
 - **Add Account** – Manually add Discord accounts using tokens (or login via browser and grab the token)
 - **Create Account** – Quickly open Discord's registration page pre-filled or with captcha solvers in mind
