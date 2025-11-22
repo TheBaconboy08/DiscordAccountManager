@@ -12,9 +12,6 @@ Perfect for users who manage multiple Discord accounts (communities, alt account
 - Stores accounts in plain JSON format (unencrypted)
 - Built in .NET 4.7.2 (C#) – Works on Windows
 
-### Screenshot
-*(Add a screenshot of the main window here once ready)*
-
 ### Requirements
 - **Windows 10 or Windows 11** (64-bit)
 - **Visual Studio 2026** (Community edition is fine)
