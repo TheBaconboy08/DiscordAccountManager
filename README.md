@@ -33,8 +33,7 @@ The app **only works correctly in Release mode** due to Discord's anti-debugging
 ### How to Use
 1. Run `DiscordAccountManagerWPF.exe` (from the Build folder)
 2. Click **Add Account**
-   - Name your account (e.g., "Main", "Alt #1", "Bot Tester")
-   - Paste your Discord token (see below how to get it)
+to open Discord login in browser
 3. Optional: Use **Create Account** to open Discord signup in browser
 4. Select any account from the list → click **Open Selected**
    → Google Chrome will open Discord already logged in as that account
