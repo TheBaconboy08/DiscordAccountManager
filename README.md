@@ -1,4 +1,4 @@
-# DiscordAccountManager
+# Discord Account Manager
 
 A lightweight and simple Discord multi-account manager that allows you to easily add, create, and switch between Discord accounts by opening them directly in your default web browser.
 
