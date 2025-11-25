@@ -24,7 +24,7 @@ The app **only works correctly in Release mode** due to Discord's anti-debugging
 
 1. Open `DiscordAccountManager.sln` in Visual Studio 2026
 2. At the top, change the build configuration from `Debug` → `Release`
-3. Make sure the platform is set to `x64` or `Any CPU`
+3. Make sure the platform is set to `x86` or `x64` or `Any CPU`
 4. Build → Build Solution (Ctrl+Shift+B)
 5. The executable will be in:  
    `\Build\DiscordAccountManagerWPF.exe`
